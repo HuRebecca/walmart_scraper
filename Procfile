@@ -1,1 +1,1 @@
-web: python Walmart.py --log file--
+worker: python Walmart.py
